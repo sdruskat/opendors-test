@@ -1,0 +1,29 @@
+{
+    "201302": {
+        "files": {
+            "oa_pdf/a7/f6/bat004.PMC3567487.pdf": {
+                "url_count": 7,
+                "annot_urls": [
+                    "https://itunes.com/apps/yeastgenome",
+                    "https://spell.yeastgenome.org",
+                    "https://www.yeastgenome.org/yeastgenome-app-information",
+                    "https://github.com/edwong57/YeastGenome-app",
+                    "https://intermine.org",
+                    "https://www.yeastgenome.org",
+                    "https://yeastmine.yeastgenome.org"
+                ],
+                "text_urls": [],
+                "all_urls": [
+                    "https://intermine.org",
+                    "https://www.yeastgenome.org/yeastgenome-app-information",
+                    "https://www.yeastgenome.org",
+                    "https://github.com/edwong57/YeastGenome-app",
+                    "https://yeastmine.yeastgenome.org",
+                    "https://itunes.com/apps/yeastgenome",
+                    "https://spell.yeastgenome.org"
+                ]
+            }
+        },
+        "num_files": 2462
+    }
+}
